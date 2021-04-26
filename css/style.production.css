@@ -176,6 +176,22 @@ button:focus {
     margin-bottom: 10px;
     font-size: 20px;
 }
+
+/* /////CONTACT PAGE///// */
+h1 {
+    text-align: center;
+}
+
+p {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+
 @-webkit-keyframes color-change {
   0% {
     fill: #edc655;

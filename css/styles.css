@@ -139,6 +139,22 @@ button:hover, button:focus {
 .aboutme__info {
     margin-bottom: 10px;
 }
+
+/* /////CONTACT PAGE///// */
+h1 {
+    text-align: center;
+}
+
+p {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+
 @keyframes color-change {
   0% {
     fill: var(--animation-0-color);
