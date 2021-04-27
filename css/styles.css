@@ -32,6 +32,8 @@ body {
   font-weight: var(--font-weight-body);
   font-size: var(--font-size-body);
   line-height: 1.6;
+  text-align: center;
+  margin: 20px;  
 }
 * {box-sizing: border-box;
 }
