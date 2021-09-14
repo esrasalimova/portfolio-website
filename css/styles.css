@@ -219,3 +219,14 @@ form {
     font-size: var(--font-size-h1-mediaq);
   }
 }
+
+/* /////work PAGE///// */
+
+.image5
+{
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
