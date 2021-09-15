@@ -6,10 +6,6 @@
 */
 
 
-:root {
-  /*font-weight*/
-  /*font-size*/
-}
 
 body {
   background-color: #c0c5ce;
@@ -196,6 +192,12 @@ div {
 form {
   text-align: center;
   font-size: 18px;
+}
+
+.stockIcons {
+  margin: 20px;
+  display: flex;
+  gap: 40px;
 }
 
 @-webkit-keyframes color-change {

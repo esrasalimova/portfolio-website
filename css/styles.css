@@ -220,7 +220,28 @@ form {
   }
 }
 
+.stockIcons {
+  margin: 20px;
+  display: flex;
+  gap: 40px;
+}
 /* /////work PAGE///// */
+
+.image1
+{
+ 
+  margin: auto;
+  display: block;
+  border-radius: 15px;
+}
+
+.image2
+{
+ 
+  margin: auto;
+  display: block;
+  border-radius: 15px;
+}
 
 .image5
 {
