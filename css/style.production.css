@@ -171,7 +171,7 @@ button:focus {
 }
 
 .aboutme__info {
-    margin-bottom: 10px;
+    margin-bottom: 100px;
     font-size: 20px;
 }
 
@@ -184,10 +184,13 @@ h1 {
 p {
   text-align: center;
   font-size: 20px;
+  margin-bottom: 2px;
 }
 div {
   text-align: center;
   font-size: 20px;
+  margin-bottom: 70px;
+  margin-top: 15px;
 }
 form {
   text-align: center;
@@ -199,6 +202,7 @@ form {
   display: flex;
   gap: 40px;
 }
+
 
 @-webkit-keyframes color-change {
   0% {
@@ -300,4 +304,59 @@ form {
   h1 {
     font-size: 22px;
   }
+}
+
+.image1
+{
+ 
+  margin: auto;
+  display: block;
+  height: 40%;
+  width: 97%;
+  border-radius: 15px;
+}
+.image2
+{
+ 
+  margin: auto;
+  display: block;
+  height: 40%;
+  width: 97%;
+  border-radius: 15px;
+}
+.image3
+{
+ 
+  margin: auto;
+  display: block;
+  height: 40%;
+  width: 97%;
+  border-radius: 15px;
+}
+.image4
+{
+ 
+  margin: auto;
+  display: block;
+  height: 22%;
+  width: 97%;
+  border-radius: 15px;
+}
+.image5
+{
+ 
+  margin: auto;
+  display: block;
+  height: 30%;
+  width: auto;
+  border-radius: 15px;
+}
+.image6
+{
+ 
+  margin: auto;
+  display: block;
+  height: 22%;
+  width: 90%;
+  border-radius: 15px;
 }
