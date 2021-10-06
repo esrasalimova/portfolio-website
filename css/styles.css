@@ -232,22 +232,53 @@ form {
  
   margin: auto;
   display: block;
+  height: 40%;
+  width: 97%;
   border-radius: 15px;
 }
-
 .image2
 {
  
   margin: auto;
   display: block;
+  height: 40%;
+  width: 97%;
   border-radius: 15px;
 }
-
+.image3
+{
+ 
+  margin: auto;
+  display: block;
+  height: 40%;
+  width: 97%;
+  border-radius: 15px;
+}
+.image4
+{
+ 
+  margin: auto;
+  display: block;
+  height: 22%;
+  width: 97%;
+  border-radius: 15px;
+}
 .image5
 {
-  width: 200px;
-  height: 200px;
-  border: 1px solid black;
+ 
+  margin: auto;
+  display: block;
+  height: 30%;
+  width: auto;
+  border-radius: 15px;
+}
+.image6
+{
+ 
+  margin: auto;
+  display: block;
+  height: 22%;
+  width: 90%;
   border-radius: 15px;
 }
 
