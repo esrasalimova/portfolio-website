@@ -10,8 +10,8 @@
 body {
   background-color: #c0c5ce;
   font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 400;
-  font-size: 16px;
+  font-weight: 550;
+  font-size: 18px;
   line-height: 1.6;
   text-align: center;
   margin: 20px;
@@ -171,8 +171,11 @@ button:focus {
 }
 
 .aboutme__info {
-    margin-bottom: 100px;
+    
     font-size: 20px;
+    text-align: center;
+    width: 1250px;
+    height: 200px;
 }
 
 /* /////CONTACT PAGE///// */
@@ -188,9 +191,9 @@ p {
 }
 div {
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
   margin-bottom: 70px;
-  margin-top: 15px;
+  
 }
 form {
   text-align: center;
@@ -360,3 +363,17 @@ form {
   width: 90%;
   border-radius: 15px;
 }
+
+.skills-tag{
+  margin: 0.3em;
+  padding: 0.5em;
+  -webkit-box-flex: 1;
+  box-sizing: border-box;
+  flex-grow: 1;
+  max-width: 9em;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 350;
+  border: 3px solid rgb(110, 141, 153);
+}
+

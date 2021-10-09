@@ -137,7 +137,11 @@ button:hover, button:focus {
 }
 
 .aboutme__info {
-    margin-bottom: 10px;
+  
+  font-size: 20px;
+  text-align: center;
+  width: 1250px;
+  height: 200px;
 }
 
 /* /////CONTACT PAGE///// */
@@ -153,9 +157,9 @@ p {
 }
 div {
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
   margin-bottom: 70px;
-  margin-top: 15px;
+  
 }
 form {
   text-align: center;
@@ -290,3 +294,15 @@ form {
   border-radius: 15px;
 }
 
+.skills-tag{
+  margin: 0.3em;
+  padding: 0.5em;
+  -webkit-box-flex: 1;
+  box-sizing: border-box;
+  flex-grow: 1;
+  max-width: 9em;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 350;
+  border: 3px solid rgb(110, 141, 153);
+}
